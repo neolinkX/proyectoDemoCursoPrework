@@ -1,0 +1,13 @@
+ls: cannot access 'deedsd': No such file or directory
+sadasdsad: command not found
+ls: cannot access '[a]*': No such file or directory
+dir3:
+
+dir4:
+
+dir5:
+ls: cannot access '[[:upper]]': No such file or directory
+ls: cannot access '[[:upper]]*': No such file or directory
+README.md
+README.md
+README.md

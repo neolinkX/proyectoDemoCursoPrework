@@ -1,0 +1,10 @@
+total 32K
+drwxr-xr-x 2 neolinkx neolinkx 4.0K Feb  6 16:49 dir20
+drwxr-xr-x 2 neolinkx neolinkx 4.0K Feb  6 16:43 dir3
+drwxr-xr-x 2 neolinkx neolinkx 4.0K Feb  6 16:49 dir4
+drwxr-xr-x 2 neolinkx neolinkx 4.0K Feb  6 16:49 dir5
+-rw-r--r-- 1 neolinkx neolinkx  302 Feb  6 17:54 error.txt
+-rw-r--r-- 1 neolinkx neolinkx  296 Feb  6 15:57 index.html
+-rw-r--r-- 1 neolinkx neolinkx   41 Feb  6 17:41 output.txt
+-rw-r--r-- 1 neolinkx neolinkx   27 Feb  6 15:31 README.md
+-rw-r--r-- 1 neolinkx neolinkx    0 Feb  6 17:57 nuevito.txt
